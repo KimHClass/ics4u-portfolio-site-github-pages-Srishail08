@@ -4,6 +4,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ---
 ## Navigation Outline
 
+-[Main](../index.md)
 -
 
 ---
