@@ -4,8 +4,8 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ---
 ## Navigation Outline
 
--[Main](../index.md)
--
+-[Main](./index.md)
+-[Reflection #1](./posts/first_reflection.md) [Reflection #2](./posts/second_reflection.md)
 
 ---
 
